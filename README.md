@@ -55,3 +55,6 @@
 ### :fire: My Git Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msinankk&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=499&fire=4DE1EB&border=EB5454&background=-6%2C000000%2C051123)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msinankk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+

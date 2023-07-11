@@ -25,8 +25,6 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -69,7 +67,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
   <a href="https://htmx.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/htmx/htmx.org/main/static/logo.svg" alt="htmx" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="htmx" width="80" height="40"/> 
   </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40"/> 

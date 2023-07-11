@@ -75,6 +75,15 @@
   <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="icons" width="40" height="40"/> 
   </a>
+  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="icons" width="40" height="40"/> 
+  </a>
+  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/J/jquery-ui-logo-9650A7C0FD-seeklogo.com.png" alt="icons" width="40" height="40"/> 
+  </a>
+  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png" alt="icons" width="60" height="40"/> 
+  </a>
 </p>
 <br>
 

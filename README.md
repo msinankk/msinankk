@@ -18,13 +18,16 @@
   Hey there, Im Sinan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  🔭 I am a Full Stack Django Developer at Cybrosys Technologies, where I contribute to both the frontend and backend development for web applications.
 
-- :seedling: Exploring Technical Content Writing.
+-  🌱 I am also exploring the field of Technical Content Writing, where I aim to share my knowledge and experiences with others.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+-  ⚡ In my free time, I enjoy solving problems on platforms like GeeksforGeeks and keeping myself updated by reading tech articles.
+
+-  🏆 Additionally, I am proud to mention that I am a Guinness World Record holder. Apart from my professional pursuits, I am an avid badminton player and enjoy playing 8-ball as well.
 
 ---
 
@@ -68,10 +71,13 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
   <a href="https://htmx.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="htmx" width="80" height="40"/> 
+    <img src="https://blogthedata.com/media/post_metaimgs/htmx.webp" alt="htmx" width="40" height="40"/> 
   </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40"/> 
+  </a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="axios" width="40" height="40"/> 
   </a>
   <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="icons" width="40" height="40"/> 

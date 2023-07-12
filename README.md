@@ -76,7 +76,7 @@
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40"/> 
   </a>
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="axios" width="40" height="40"/> 
   </a>
   <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 

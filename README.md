@@ -41,17 +41,23 @@ class Sinan:
 
 ## 💼 What I Do
 
-🔭 **Professional Role**: Full Stack Django Developer at Cybrosys Technologies, contributing to both frontend and backend development for robust web applications
+#### 🔭 **Professional Role**:             
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full Stack Django Developer at Cybrosys Technologies, contributing to both frontend and backend development for robust web applications
 
-🌱 **Content Creation**: Exploring Technical Content Writing to share knowledge and experiences with the developer community
+#### 🌍 **Open Source Contribution**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Actively contributing to open source projects, sharing improvements, fixing bugs, and collaborating with global developer communities
 
-🌍 **Open Source Contribution**: Actively contributing to open source projects, sharing improvements, fixing bugs, and collaborating with global developer communities
+#### 🌱**Content Creation**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploring Technical Content Writing to share knowledge and experiences with the developer community
 
-⚡ **Continuous Learning**: Solving coding challenges on GeeksforGeeks and staying updated with the latest tech trends
+#### ⚡ **Continuous Learning**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solving coding challenges on GeeksforGeeks and staying updated with the latest tech trends
 
-🏆 **Unique Achievement**: Proud Guinness World Record holder
+#### 🏆 **Unique Achievement**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proud Guinness World Record holder
 
-🏸 **Beyond Code**: Avid badminton player and 8-ball enthusiast
+#### 🏸 **Beyond Code**:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avid badminton player and 8-ball enthusiast  
 
 <br>
 

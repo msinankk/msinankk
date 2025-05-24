@@ -1,119 +1,146 @@
+# Hi there, I'm Sinan! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=msinankk&color=0e75b6&style=flat)
 
-# Profile  ![](https://komarev.com/ghpvc/?username=msinankk&color=gray)
-<div id="badges">
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120"/>
+  
+  ### Full Stack Django Developer | Technical Content Writer | Guinness World Record Holder 🏆
+  
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/msinankk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class Sinan:
+    def __init__(self):
+        self.role = "Full Stack Django Developer"
+        self.company = "Cybrosys Technologies"
+        self.location = "India"
+        self.interests = ["Web Development", "Technical Writing", "Problem Solving"]
+        self.hobbies = ["Badminton", "8-ball", "Reading Tech Articles"]
+        self.achievement = "Guinness World Record Holder"
+    
+    def current_focus(self):
+        return [
+            "Building scalable web applications with Django",
+            "Exploring Technical Content Writing",
+            "Solving algorithmic problems on GeeksforGeeks"
+        ]
+```
+
+## 💼 What I Do
+
+🔭 **Professional Role**: Full Stack Django Developer at Cybrosys Technologies, contributing to both frontend and backend development for robust web applications
+
+🌱 **Content Creation**: Exploring Technical Content Writing to share knowledge and experiences with the developer community
+
+⚡ **Continuous Learning**: Solving coding challenges on GeeksforGeeks and staying updated with the latest tech trends
+
+🏆 **Unique Achievement**: Proud Guinness World Record holder
+
+🏸 **Beyond Code**: Avid badminton player and 8-ball enthusiast
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msinankk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msinankk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=msinankk&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=500"/>
+</div>
+
+<p align="center">
+  <i>📊 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable web applications with Django and modern frontend technologies
+- ✍️ Creating technical content to help the developer community
+- 🧠 Continuously improving problem-solving skills through competitive programming
+- 🌟 Contributing to open-source projects and sharing knowledge
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/msinankk">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-</div>
-<h1>
-  Hey there, Im Sinan
+---
+
+<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-### :woman_technologist: About Me :
-
--  🔭 I am a Full Stack Django Developer at Cybrosys Technologies, where I contribute to both the frontend and backend development for web applications.
-
--  🌱 I am also exploring the field of Technical Content Writing, where I aim to share my knowledge and experiences with others.
-
--  ⚡ In my free time, I enjoy solving problems on platforms like GeeksforGeeks and keeping myself updated by reading tech articles.
-
--  🏆 Additionally, I am proud to mention that I am a Guinness World Record holder. Apart from my professional pursuits, I am an avid badminton player and enjoy playing 8-ball as well.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<br><br>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="Flask" width="60" height="40"/> 
-  </a>
-  <a href="=https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="React" width="60" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://htmx.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://blogthedata.com/media/post_metaimgs/htmx.webp" alt="htmx" width="40" height="40"/> 
-  </a>
-  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40"/> 
-  </a>
-  <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" alt="axios" width="40" height="40"/> 
-  </a>
-  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="icons" width="40" height="40"/> 
-  </a>
-  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="icons" width="40" height="40"/> 
-  </a>
-  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/J/jquery-ui-logo-9650A7C0FD-seeklogo.com.png" alt="icons" width="40" height="40"/> 
-  </a>
-  <a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png" alt="icons" width="60" height="40"/> 
-  </a>
-</p>
-<br>
-
-
-<br>
-
----
-
- 
-### :fire:  GitHub Profile Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msinankk&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=499&fire=4DE1EB&border=EB5454&background=-6%2C000000%2C051123)](https://git.io/streak-stats)
-
- <div> 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sinan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msinankk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sinans's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msinankk&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+  <p><i>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</i></p>
+</div>

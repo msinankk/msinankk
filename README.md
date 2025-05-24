@@ -1,18 +1,22 @@
-# Hi there, I'm Sinan! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=msinankk&color=0e75b6&style=flat)
 
 <div align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120"/>
+
+  # Hi there, I'm Mohammed Sinan K K 👋
   
-  ### Full Stack Django Developer | Technical Content Writer | Guinness World Record Holder 🏆
+  ### 🐍 Python | Django | Full Stack | Devops
   
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://instagram.com/msinankk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   </p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=msinankk&color=0e75b6&style=flat)
+
 </div>
 
----
+<br>
 
 ## 🚀 About Me
 
@@ -33,6 +37,7 @@ class Sinan:
             "Solving algorithmic problems on GeeksforGeeks"
         ]
 ```
+<br>
 
 ## 💼 What I Do
 
@@ -40,13 +45,16 @@ class Sinan:
 
 🌱 **Content Creation**: Exploring Technical Content Writing to share knowledge and experiences with the developer community
 
+🌍 **Open Source Contribution**: Actively contributing to open source projects, sharing improvements, fixing bugs, and collaborating with global developer communities
+
 ⚡ **Continuous Learning**: Solving coding challenges on GeeksforGeeks and staying updated with the latest tech trends
 
 🏆 **Unique Achievement**: Proud Guinness World Record holder
 
 🏸 **Beyond Code**: Avid badminton player and 8-ball enthusiast
 
----
+<br>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -102,7 +110,7 @@ class Sinan:
 
 </div>
 
----
+<br>
 
 ## 📊 GitHub Analytics
 
@@ -119,7 +127,7 @@ class Sinan:
   <i>📊 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 
----
+<br>
 
 ## 🎯 Current Focus
 
@@ -128,7 +136,7 @@ class Sinan:
 - 🧠 Continuously improving problem-solving skills through competitive programming
 - 🌟 Contributing to open-source projects and sharing knowledge
 
----
+<br>
 
 ## 📫 Let's Connect!
 
@@ -146,7 +154,7 @@ class Sinan:
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

@@ -23,6 +23,9 @@
 ```python
 class Sinan:
     def __init__(self):
+        """
+        Python class to define properties/about of sinan
+        """
         self.role = "Full Stack Django Developer"
         self.company = "Cybrosys Technologies"
         self.location = "India"
@@ -31,6 +34,9 @@ class Sinan:
         self.achievement = "Guinness World Record Holder"
     
     def current_focus(self):
+        """
+        Method will return current focus->list
+        """
         return [
             "Building scalable web applications with Django",
             "Exploring Technical Content Writing",
